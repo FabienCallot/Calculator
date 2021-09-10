@@ -1,3 +1,7 @@
+body {
+  background: wheat;
+}
+
 .app {
   display: grid;
   width: 350px;
@@ -22,7 +26,7 @@ h3 {
   padding-top: 20px;
   font-size: 2rem;
   font-family: sans-serif;
-  color: white;
+  color: rgba(255, 255, 255, 0.753);
   grid-area: res;
 }
 
@@ -33,6 +37,7 @@ button {
   border-radius: 4px;
   cursor: pointer;
   transition: .2s;
+  font-size: 1.20rem;
 }
 
 button:hover {
