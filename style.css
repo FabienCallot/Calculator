@@ -1,5 +1,5 @@
 body {
-  background: wheat;
+  background-color: #293241;
 }
 
 .app {
@@ -8,7 +8,7 @@ body {
   margin: 100px auto;
   border: 2px solid #000;
   border-radius: 4px;
-  background: rgb(54, 52, 52);
+  background-color: #182228;
   grid-template-columns: 25% 25% 25% 25%;
   grid-template-rows: 90px repeat(5 , 70px);
   grid-template-areas:
