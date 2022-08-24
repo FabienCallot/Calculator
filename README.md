@@ -1,4 +1,4 @@
-Little project JS for create a simple calculator.
+Project JS for create a calculator.
 
 
 https://calculator-fabiencallot.vercel.app/
