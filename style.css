@@ -1,11 +1,15 @@
 body {
   background-color: #293241;
+  height: 100vh;
 }
 
 .app {
+  position: relative;
+  top: 20%;
   display: grid;
   width: 350px;
-  margin: 100px auto;
+  max-width: 90vw;
+  margin: auto;
   border: 2px solid #000;
   border-radius: 4px;
   background-color: #182228;
